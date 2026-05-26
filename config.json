@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvpdate",
+        "uuid": 1722609,
+        "checksum": "bistw"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
